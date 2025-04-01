@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
-- 🌱 I’m currently learning **Bash**
+- 🌱 I’m currently learning **Bash Scripting**
 
 - 💬 Ask me about **RHEL and Debian Systems**
 
