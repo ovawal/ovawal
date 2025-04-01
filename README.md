@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm iWalter Okova</h1>
+<h1 align="center">Hi 👋, I'm Walter Okova</h1>
 <h3 align="center">A passionate Linux Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **RHEL and Debian Systems**
 
 - 📫 How to reach me **okova.walter@gmail.com**
+
+- 😊 View my repos
 
 - ⚡ Fun fact **I love to travel and play basketball**
 
