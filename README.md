@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 
-<a href="https://x.com/Walter_Wangaki" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/walterokova/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
 </a>
 
