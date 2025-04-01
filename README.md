@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/Walter_Wangaki" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/x/x-original.svg" alt="Walter_Wangaki" height="30" width="40" />
+  <img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Walter_Wangaki" />
 </a>
    <a href="https://www.linkedin.com/in/walterokova/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="walterokova" height="30" width="40" />
