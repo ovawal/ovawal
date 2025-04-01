@@ -50,6 +50,6 @@
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="left">
+<p align="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovawal&layout=compact&theme=default&hide_border=false" alt="Walter Okova's Top Languages" />
 </p>
