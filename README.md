@@ -43,9 +43,6 @@
   </a> 
 </p>
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovawal&show_icons=true&theme=default&hide_border=false" alt="Walter Okova's GitHub Stats" />
-</p>
 
 <h3 align="left">Contribution Streak:</h3>
 <p align="center">
@@ -53,6 +50,6 @@
 </p>
 
 <h3 align="left">Top Languages:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovawal&layout=compact&theme=default&hide_border=false" alt="Walter Okova's Top Languages" />
 </p>
