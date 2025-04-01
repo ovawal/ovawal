@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **RHEL and Debian Systems**
 
-- 📫 How to reach me **okova.walter@gmail.com**
+- 📫 Reach me at **okova.walter@gmail.com**
 
 - 😊 View my repos
 
