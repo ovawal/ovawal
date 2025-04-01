@@ -45,7 +45,7 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <h3 align="left">Contribution Streak:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovawal&theme=default&hide_border=false" alt="Walter Okova's GitHub Streaks" />
 </p>
 
