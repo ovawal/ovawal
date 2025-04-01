@@ -42,3 +42,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
   </a> 
 </p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ovawal&show_icons=true&theme=default&hide_border=false" alt="Walter Okova's GitHub Stats" />
+</p>
+
+<h3 align="left">Contribution Streak:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovawal&theme=default&hide_border=false" alt="Walter Okova's GitHub Streaks" />
+</p>
+
+<h3 align="left">Top Languages:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovawal&layout=compact&theme=default&hide_border=false" alt="Walter Okova's Top Languages" />
+</p>
