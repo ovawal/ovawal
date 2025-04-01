@@ -49,7 +49,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ovawal&theme=default&hide_border=false" alt="Walter Okova's GitHub Streaks" />
 </p>
 
-<h3 align="left">Top Languages:</h3>
+<h3 align="centre">Top Languages:</h3>
 <p align="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ovawal&layout=compact&theme=default&hide_border=false" alt="Walter Okova's Top Languages" />
 </p>
