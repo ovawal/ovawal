@@ -39,9 +39,6 @@
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> 
 </a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="40" height="40"/> 
-</a>
 </p>
 
 <h3 align="left">Top Languages:</h3>
