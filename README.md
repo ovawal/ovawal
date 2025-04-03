@@ -15,7 +15,6 @@
 
 - 😊 View my repos
 
-- ⚡ Fun fact **I love to travel and play basketball**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,10 +37,16 @@
   </a> 
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a> 
+</a>
+<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> 
+</a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/> 
+</a>
+<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vmware/vmware-original.svg" alt="vmware" width="40" height="40"/> 
+</a> 
 </p>
 <h3 align="left">GitHub Stats:</h3>
 
